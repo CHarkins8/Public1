@@ -1,5 +1,5 @@
 
-#!/home/usr/perl
+#!/home/usr/bin/perl
 
 use strict;
 use warnings;
